@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23d4cb9d-2eb6-49c5-94d1-8fd75ac44d4b" name="Changes" comment="" />
+    <list default="true" id="23d4cb9d-2eb6-49c5-94d1-8fd75ac44d4b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/hotwire-forums.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hotwire-forums.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ruby-version" beforeDir="false" afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +164,8 @@
       <workItem from="1651834499386" duration="1331000" />
       <workItem from="1652700785031" duration="1176000" />
       <workItem from="1652760001908" duration="2709000" />
-      <workItem from="1652770144342" duration="5677000" />
+      <workItem from="1652770144342" duration="6305000" />
+      <workItem from="1652862222004" duration="1710000" />
     </task>
     <servers />
   </component>
