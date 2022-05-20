@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23d4cb9d-2eb6-49c5-94d1-8fd75ac44d4b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/shared/_navigation.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/concerns/set_current_request_details.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/current.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/shared/_flash.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/main_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/main_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/importmap.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/importmap.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/shared/_navigation.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/shared/_navigation.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +167,8 @@
       <workItem from="1652760001908" duration="2709000" />
       <workItem from="1652770144342" duration="6305000" />
       <workItem from="1652862222004" duration="3832000" />
-      <workItem from="1652939702420" duration="3537000" />
+      <workItem from="1652939702420" duration="4510000" />
+      <workItem from="1653020227818" duration="2891000" />
     </task>
     <task id="LOCAL-00001" summary="add devise">
       <created>1652864154461</created>
@@ -172,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652864154461</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add navigation bar">
+      <created>1652948762044</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652948762044</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +203,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add devise" />
-    <option name="LAST_COMMIT_MESSAGE" value="add devise" />
+    <MESSAGE value="add navigation bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="add navigation bar" />
   </component>
 </project>
